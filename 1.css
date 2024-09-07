@@ -1,0 +1,11 @@
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.min-h-[100dvh] { min-height: 100vh; }
+.bg-primary { background-color: #primary-color; }
+.text-primary-foreground { color: #primary-foreground-color; }
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+.lg:px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+.h-16 { height: 4rem; }
+.justify-between { justify-content: space-between; }
+.items-center { align-items: center; }
+/* Additional Tailwind utility classes are used throughout */
